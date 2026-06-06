@@ -28,3 +28,14 @@ Developed an RFID-based attendance system using Arduino and RFID RC522 to automa
 ## Outcome
 
 Successfully implemented an embedded attendance system using RFID technology for secure and efficient attendance management.
+
+## Screenshots
+
+### Circuit Diagram
+![Circuit Diagram](circuit-diagram.png)
+
+### RFID Detection
+![RFID Detection](rfid-detection.png)
+
+### Working Demo
+![Working Demo](working-demo.jpg)
